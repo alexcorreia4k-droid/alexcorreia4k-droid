@@ -19,7 +19,7 @@ const alex = {
     location: "Brazil 🇧🇷",
     role: "Backend Developer",
     focus: "Building scalable backend systems",
-    
+
     languages: [
         "JavaScript",
         "Python",
