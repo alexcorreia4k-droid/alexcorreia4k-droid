@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+  Hey 👋 I'm Alex JR
+</h1>
 
-<!--
-**alexcorreia4k-droid/alexcorreia4k-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Developer • Tech Enthusiast • Future Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;JavaScript+Developer;Node.js+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects+⚡" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💫 About Me
+
+```javascript
+const alex = {
+    location: "Brazil 🇧🇷",
+    focus: "Full Stack Development",
+    learning: ["Node.js", "React", "APIs", "Cybersecurity"],
+    hobbies: ["Coding", "Technology", "Gaming"],
+    motto: "Code. Learn. Build. Repeat."
+}
